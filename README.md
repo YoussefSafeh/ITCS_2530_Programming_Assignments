@@ -1,7 +1,7 @@
  # ITCS 2530 – C++ Programming Assignments
 
  - Name: Youssef Safeh
- - Course: ITCS 2530 – C++ Programming Assignments
+ - Course: ITCS 2530 C++ Programming Assignments
 
  ## About
 
