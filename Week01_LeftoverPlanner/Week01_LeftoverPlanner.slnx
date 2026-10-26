@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Week01_LeftoverPlanner.vcxproj" />
+  <Project Path="Week01_LeftoverPlanner.vcxproj" Id="5b1d820a-64e1-4ae4-92e5-012b48cd3e4e" />
 </Solution>
