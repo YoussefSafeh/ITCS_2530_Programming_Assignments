@@ -1,0 +1,21 @@
+================================================================
+                     YOUR FOOD WASTE REPORT
+================================================================
+Favorite dish to cook:      pizza
+Usually spoils first:       cheese
+Weekly grocery spending:    $200.00
+Share of groceries tossed:  20%
+
+COST OF FOOD WASTE (in dollars)
+----------------------------------------------------------------
+Category                        Per Week   Per Month    Per Year
+----------------------------------------------------------------
+Groceries bought                  200.00      866.67    10400.00
+Food thrown out                    40.00      173.33     2080.00
+Saved if waste is halved           20.00       86.67     1040.00
+----------------------------------------------------------------
+Waste level:                HIGH
+Recommendation:             Buy less and shop with a list.
+Tip: Plan meals around your cheese before it spoils.
+Cut your waste in half and keep $1040.00 a year in your pocket!
+================================================================
