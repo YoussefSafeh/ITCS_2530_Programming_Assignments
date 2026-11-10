@@ -1,21 +1,32 @@
 ================================================================
                      YOUR FOOD WASTE REPORT
 ================================================================
-Favorite dish to cook:      pizza
-Usually spoils first:       cheese
-Weekly grocery spending:    $200.00
+Favorite dish to cook:      pasta
+Usually spoils first:       to
+Weekly grocery spending:    $150.00
 Share of groceries tossed:  20%
 
 COST OF FOOD WASTE (in dollars)
 ----------------------------------------------------------------
 Category                        Per Week   Per Month    Per Year
 ----------------------------------------------------------------
-Groceries bought                  200.00      866.67    10400.00
-Food thrown out                    40.00      173.33     2080.00
-Saved if waste is halved           20.00       86.67     1040.00
+Groceries bought                  150.00      650.00     7800.00
+Food thrown out                    30.00      130.00     1560.00
+Saved if waste is halved           15.00       65.00      780.00
 ----------------------------------------------------------------
+
+4-WEEK RUNNING TOTALS (savings = waste cut in half)
+----------------------------------------------------------------
+By the end of                     Bought  Thrown Out  Could Save
+----------------------------------------------------------------
+Week 1                            150.00       30.00       15.00
+Week 2                            300.00       60.00       30.00
+Week 3                            450.00       90.00       45.00
+Week 4                            600.00      120.00       60.00
+----------------------------------------------------------------
+
 Waste level:                HIGH
 Recommendation:             Buy less and shop with a list.
-Tip: Plan meals around your cheese before it spoils.
-Cut your waste in half and keep $1040.00 a year in your pocket!
+Tip: Plan meals around your to before it spoils.
+Cut your waste in half and keep $780.00 a year in your pocket!
 ================================================================
